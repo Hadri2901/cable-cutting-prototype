@@ -21,7 +21,7 @@
   #define PWMB2 10  // Motor M1
 
 // === Switch pin ===
-  #define SWITCH_PIN 12
+  #define SWITCH_PIN 13
 
 // === Settings ===
   const float CURRENT_THRESHOLD_mA = 60.0;
